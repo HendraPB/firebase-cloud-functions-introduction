@@ -1,2 +1,4 @@
-node_modules
-fb-cloud-functions-demo-firebase-adminsdk-km39q-405896eddb.json
+.firebaserc
+firebase.json
+functions/serviceAccount.json
+functions/node_modules/
