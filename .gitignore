@@ -2,3 +2,4 @@
 firebase.json
 functions/serviceAccount.json
 functions/node_modules/
+functions/.gitignore
