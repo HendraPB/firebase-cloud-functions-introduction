@@ -27,7 +27,7 @@ cp firebase.json.example firebase.json
 cd functions && npm install && cd ..
 ```
 
-Before deploying, download Firebase Admin SDK at https://console.firebase.google.com/project/_/settings/seraccounts/adminsdk?hl=en then move it to the function folder and rename it to serviceAccount.json
+Before deploying, download Firebase Admin SDK at https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk?hl=id then move it to the function folder and rename it to serviceAccount.json
 
 ``` bash
 # deploy it on Firebase
